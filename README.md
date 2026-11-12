@@ -103,7 +103,7 @@ All primary application processing and data storage are designed to operate loca
 
 The complete project documentation is available below:
 
-[Project Documentation (PDF)](docs/Project%20Documentation.pdf)
+[Project Documentation (PDF)](docs/Project%20Documentation)
 ## Disclaimer
 
 This application is an educational and supportive tool. It is not intended to diagnose, treat, or replace professional mental health services.
